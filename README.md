@@ -9,6 +9,24 @@ This repository contains the *CP31 sheet* created by *Priyansh Agrawal* and the 
 
 ---
 
+## Contributors
+
+Thanks to all the contributors! ✨
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Anikettt01">
+        <img src="https://avatars.githubusercontent.com/Anikettt01" width="100px;" alt=""/>
+        <br />
+        <sub><b>Anikettt01</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 🚀 Contribution Guidelines
 
 This repository thrives on collaboration and diverse solutions. Here’s how you can contribute:
