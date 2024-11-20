@@ -9,6 +9,25 @@ This repository contains the **CP31 sheet** created by **Priyansh Agrawal** and 
 
 ---
 
+## 🌟 Contributors
+
+We’re grateful for all the amazing contributors! Hover over their profiles to learn more about their contributions:
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <a href="https://github.com/Anikettt01" style="text-decoration: none; margin: 10px;" title="Code, Reviews">
+    <img src="https://avatars.githubusercontent.com/Anikettt01" alt="Anikettt01" width="80" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.1); transition: transform 0.2s;" 
+    onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
+    <p align="center" style="margin: 5px 0; font-size: 14px;">Anikettt01</p>
+  </a>
+  <a href="https://github.com/username2" style="text-decoration: none; margin: 10px;" title="Documentation, Design">
+    <img src="https://avatars.githubusercontent.com/username2" alt="Username2" width="80" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.1); transition: transform 0.2s;" 
+    onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
+    <p align="center" style="margin: 5px 0; font-size: 14px;">Username2</p>
+  </a>
+</div>
+
+---
+
 ## 🚀 Contribution Guidelines
 
 This repository thrives on collaboration and diverse solutions. Here’s how you can contribute:
