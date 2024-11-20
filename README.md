@@ -1,11 +1,29 @@
 # TLE Eliminators CP31
 
-This repository contains the **CP31 sheet** created by **Priyansh Agrawal** and the **TLE Eliminators** team. The sheet includes carefully curated problems ranging from **rating 800 to 1600** on the Codeforces platform. It is designed to help programmers improve their problem-solving skills progressively.
+This repository contains the *CP31 sheet* created by *Priyansh Agrawal* and the *TLE Eliminators* team. The sheet includes carefully curated problems ranging from *rating 800 to 1600* on the Codeforces platform. It is designed to help programmers improve their problem-solving skills progressively.
 
 ## 🌟 Features
 - Problems range from beginner-friendly to intermediate level.
 - Encourages learning and mastering multiple approaches to solve a single problem.
 - Contributions are welcome to add diverse solutions or optimize existing ones.
+
+---
+
+## Contributors
+
+Thanks to all the contributors! ✨
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Anikettt01">
+        <img src="https://avatars.githubusercontent.com/Anikettt01" width="100px;" alt=""/>
+        <br />
+        <sub><b>Anikettt01</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -15,7 +33,7 @@ This repository thrives on collaboration and diverse solutions. Here’s how you
 
 ### 1. Adding New Solutions
 - If you have an alternative or optimized solution to a problem, add it in the corresponding folder.  
-- File your solution as `problemNumber.<ext>` (e.g., `1.cpp`, `1.py`).  
+- File your solution as problemNumber.<ext> (e.g., 1.cpp, 1.py).  
 - Ensure your code is clean and properly formatted.
 
 ### 2. Optimizing Existing Code
@@ -24,14 +42,14 @@ This repository thrives on collaboration and diverse solutions. Here’s how you
 
 ### 3. Submitting a Pull Request
 - Fork this repository and clone it to your local system.  
-- Make your changes in a new branch (e.g., `add-problem-x-solution`).  
+- Make your changes in a new branch (e.g., add-problem-x-solution).  
 - Test your code before submission to ensure correctness.  
 - Push your branch and create a pull request. Provide a meaningful title and description of your changes.
 
 ---
 
 ## 📢 Acknowledgments
-Special thanks to **Priyansh Agrawal** and the **TLE Eliminators** team for curating this excellent problem set.
+Special thanks to *Priyansh Agrawal* and the *TLE Eliminators* team for curating this excellent problem set.
 
 ---
 
