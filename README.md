@@ -22,6 +22,13 @@ Thanks to all the contributors! ✨
         <sub><b>Anikettt01</b></sub>
       </a>
     </td>
+    <td align="center">
+      <a href="https://github.com/Mk-mayank">
+        <img src="https://avatars.githubusercontent.com/Mk-mayank" width="100px;" alt=""/>
+        <br />
+        <sub><b>Mk-mayank</b></sub>
+      </a>
+    </td>
   </tr>
 </table>
 
