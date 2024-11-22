@@ -21,6 +21,8 @@ Thanks to all the contributors! ✨
         <br />
         <sub><b>Anikettt01</b></sub>
       </a>
+      <br />
+      <span style="font-size: 12px; color: #4C8BF5;">Codeforces: <a href="https://codeforces.com/profile/Anikettt01"><b>@aniket_deore</b></a></span>
     </td>
     <td align="center">
       <a href="https://github.com/Mk-mayank">
@@ -28,6 +30,8 @@ Thanks to all the contributors! ✨
         <br />
         <sub><b>Mk-mayank</b></sub>
       </a>
+      <br />
+      <span style="font-size: 12px; color: #4C8BF5;">Codeforces: <a href="https://codeforces.com/profile/Mk-mayank"><b>@Mk-mayank</b></a></span>
     </td>
     <td align="center">
       <a href="https://github.com/anujop07">
@@ -35,6 +39,8 @@ Thanks to all the contributors! ✨
         <br />
         <sub><b>anujop07</b></sub>
       </a>
+      <br />
+      <span style="font-size: 12px; color: #4C8BF5;">Codeforces: <a href="https://codeforces.com/profile/anujop07"><b>@anujop07</b></a></span>
     </td>
     <td align="center">
       <a href="https://github.com/siddhesh0705">
@@ -42,6 +48,8 @@ Thanks to all the contributors! ✨
         <br />
         <sub><b>siddhesh0705</b></sub>
       </a>
+      <br />
+      <span style="font-size: 12px; color: #4C8BF5;">Codeforces: <a href="https://codeforces.com/profile/siddhesh0705"><b>@siddhheshsangale0705</b></a></span>
     </td>
   </tr>
 </table>
