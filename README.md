@@ -31,7 +31,7 @@ Thanks to all the contributors! ✨
         <sub><b>Mk-mayank</b></sub>
       </a>
       <br />
-      <span style="font-size: 12px; color: #4C8BF5;">Codeforces: <a href="https://codeforces.com/profile/Mk-mayank"><b>@Mk-mayank</b></a></span>
+      <span style="font-size: 12px; color: #4C8BF5;">Codeforces: <a href="https://codeforces.com/profile/mayank.pict12"><b>@mayank.pict12</b></a></span>
     </td>
     <td align="center">
       <a href="https://github.com/siddhesh0705">
