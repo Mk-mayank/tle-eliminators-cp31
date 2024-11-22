@@ -34,15 +34,6 @@ Thanks to all the contributors! ✨
       <span style="font-size: 12px; color: #4C8BF5;">Codeforces: <a href="https://codeforces.com/profile/Mk-mayank"><b>@Mk-mayank</b></a></span>
     </td>
     <td align="center">
-      <a href="https://github.com/anujop07">
-        <img src="https://avatars.githubusercontent.com/anujop07" width="100px;" alt=""/>
-        <br />
-        <sub><b>anujop07</b></sub>
-      </a>
-      <br />
-      <span style="font-size: 12px; color: #4C8BF5;">Codeforces: <a href="https://codeforces.com/profile/anujop07"><b>@anujop07</b></a></span>
-    </td>
-    <td align="center">
       <a href="https://github.com/siddhesh0705">
         <img src="https://avatars.githubusercontent.com/siddhesh0705" width="100px;" alt=""/>
         <br />
@@ -50,6 +41,15 @@ Thanks to all the contributors! ✨
       </a>
       <br />
       <span style="font-size: 12px; color: #4C8BF5;">Codeforces: <a href="https://codeforces.com/profile/siddheshsangale0705"><b>@siddhheshsangale0705</b></a></span>
+    </td>
+    <td align="center">
+      <a href="https://github.com/anujop07">
+        <img src="https://avatars.githubusercontent.com/anujop07" width="100px;" alt=""/>
+        <br />
+        <sub><b>anujop07</b></sub>
+      </a>
+      <br />
+      <span style="font-size: 12px; color: #4C8BF5;">Codeforces: <a href="https://codeforces.com/profile/anujop07"><b>@anujop07</b></a></span>
     </td>
   </tr>
 </table>
