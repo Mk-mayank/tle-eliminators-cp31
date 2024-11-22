@@ -49,7 +49,7 @@ Thanks to all the contributors! ✨
         <sub><b>anujop07</b></sub>
       </a>
       <br />
-      <span style="font-size: 12px; color: #4C8BF5;">Codeforces: <a href="https://codeforces.com/profile/anujop07"><b>@anujop07</b></a></span>
+      <span style="font-size: 12px; color: #4C8BF5;">Codeforces: <a href="https://codeforces.com/profile/ANUJ_0007"><b>@ANUJ_0007</b></a></span>
     </td>
   </tr>
 </table>
