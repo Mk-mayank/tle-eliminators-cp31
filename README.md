@@ -37,10 +37,10 @@ Thanks to all the contributors! ✨
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/siddesh0705">
-        <img src="https://avatars.githubusercontent.com/siddesh0705" width="100px;" alt=""/>
+      <a href="https://github.com/siddhesh0705">
+        <img src="https://avatars.githubusercontent.com/siddhesh0705" width="100px;" alt=""/>
         <br />
-        <sub><b>siddesh0705</b></sub>
+        <sub><b>siddhesh0705</b></sub>
       </a>
     </td>
   </tr>
