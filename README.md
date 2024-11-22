@@ -36,6 +36,13 @@ Thanks to all the contributors! ✨
         <sub><b>anujop07</b></sub>
       </a>
     </td>
+    <td align="center">
+      <a href="https://github.com/siddesh0705">
+        <img src="https://avatars.githubusercontent.com/siddesh0705" width="100px;" alt=""/>
+        <br />
+        <sub><b>siddesh0705</b></sub>
+      </a>
+    </td>
   </tr>
 </table>
 
